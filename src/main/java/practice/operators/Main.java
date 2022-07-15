@@ -33,7 +33,7 @@ public class Main {
 
         // || - OR operator - requires either condition to be true
         if ((maxScore > 90 || sampleScore <= 90)) {
-            System.out.println("either or both of the condition are true");
+            System.out.println("Either or both of the conditions are true");
         }
 
         // Ternary operator - a shortcut to if else       
