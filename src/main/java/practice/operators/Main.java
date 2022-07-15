@@ -28,7 +28,7 @@ public class Main {
         // && - AND operator - requires both conditions to be true
         int sampleScore = 60;
         if ((maxScore > sampleScore && maxScore < 100)) {
-            System.out.println("Greather than sample score and less than 100");
+            System.out.println("Greater than sample score and less than 100");
         }
 
         // || - OR operator - requires either condition to be true
